@@ -1,0 +1,43 @@
+body{
+	background-image: url("images/back.png");
+	background-repeat:none;
+	padding: 10px;
+	font-family:arial, helvetica, sans-serif;
+	background-size:100%;
+	background-position:left;
+}
+h1{
+	color:white;
+	text-align:center;
+	text-decoration:underline;
+	font-family:"Tangerine", serif;
+	font-weight:bold;
+	font-size:60px;
+}
+h1:hover{
+	color:black;
+}
+div.a{
+	margin-left:80px;
+	float:left;
+	border:10px solid white;
+	border-radius:10px;
+}
+div.b{
+	background-color:#3c4745;
+	padding:5px 30px; 
+	margin-top:380px;
+	text-align:justify;
+	color:white;
+	font-family:times new romen, serif;
+	border:2px solid white;
+	border-radius:10px;
+	clear:both;
+	display:block;
+}
+.c{
+	float:right;
+	margin-right:80px;
+	border:10px solid white;
+	border-radius:10px;
+}
